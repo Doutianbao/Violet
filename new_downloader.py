@@ -12,7 +12,7 @@ from PIL import Image
 
 import title_unsearch
 
-OWNER_NAME = "Rerange"
+OWNER_NAME = "Medlis"
 REMOVE_FILE=True #是否删除投稿后的视频文件
 
 def get_double(s):
