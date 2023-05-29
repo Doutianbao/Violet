@@ -4,7 +4,7 @@ import time
 import new_downloader
 import requests
 
-OWNER=499106648 #要发送命令的用户uid(现在B站叫mid)
+OWNER=1251348458 #要发送命令的用户uid(现在B站叫mid)
 REFERSH_TIME=2.5 #检查命令消息间隔时间，单位：分钟
 
 
